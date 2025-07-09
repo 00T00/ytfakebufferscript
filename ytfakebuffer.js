@@ -1,4 +1,4 @@
-/// ytfakebuffer.js
+ytfakebuffer.js text/javascript
 (() => {
     const e = {
         apply: (e, n, arguments) => {
