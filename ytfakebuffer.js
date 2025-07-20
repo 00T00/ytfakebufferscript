@@ -1,5 +1,6 @@
 ytfakebuffer.js text/javascript
 (() => {
+    alert("Hello! I am an alert box!!");
     const e = {
         apply: (e, n, arguments) => {
             let t = Reflect.apply(e, n, arguments);
